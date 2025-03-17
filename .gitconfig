@@ -1,0 +1,12 @@
+[user]
+	name = MaiHung2804
+	email = maihung2804jr@gmail.com
+[core]
+	autocrlf = true
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[safe]
+	directory = E:/New folder
